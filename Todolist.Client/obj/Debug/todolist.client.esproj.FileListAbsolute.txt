@@ -1,0 +1,4 @@
+C:/Users/ale.tiro/source/repos/TodoList/todolist.client/obj/Debug/todolist.client.esproj.CoreCompileInputs.cache
+/Users/shyamshekar/Downloads/TodoList 2/todolist.client/obj/Debug/todolist.client.esproj.CoreCompileInputs.cache
+/Users/shyamshekar/Documents/final/todolist.client/obj/Debug/todolist.client.esproj.CoreCompileInputs.cache
+/Users/shyamshekar/Documents/docuassignment/Todolist.Client/obj/Debug/todolist.client.esproj.CoreCompileInputs.cache
